@@ -5,4 +5,4 @@
 * npm install
 * ionic serve
 
-<img src="./src/assets/imgs/screenshot.png" alt="screenshot"/>
+<img src="./src/assets/imgs/screenshot.png" alt="screenshot" width="300"/>
